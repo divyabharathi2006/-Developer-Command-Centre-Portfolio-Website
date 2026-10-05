@@ -3,7 +3,7 @@ window.PORTFOLIO_DATA = {
   name: 'Divyabharathi V',
   role: 'B.E. Information Technology Student',
   location: 'Rainpet / Ranipet',
-  phone: '+91 7845655866',
+  phone: '+91 7845*******',
   email: 'd30008740@gmail.com',
   links: {
     linkedin: 'https://linkedin.com/in/divyabharathi1604',
